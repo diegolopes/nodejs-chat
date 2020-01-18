@@ -6,7 +6,7 @@ mais simples possível para qualquer um poder entender como funcionam os sockets
 Requer:
 - [Node.js](https://nodejs.org/en/download/ "Node.js")
 
-No terminal, rode o comando para instalar as dependências
+No terminal, rode o comando para instalar as dependências:
 
 `npm install`
  
